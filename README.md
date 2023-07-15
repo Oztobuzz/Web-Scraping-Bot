@@ -62,7 +62,7 @@ I also give flow of the code and an example of how to modify your code to extrac
 ### Installation
 
 1. [Chrome Driver](https://chromedriver.chromium.org/) compatible to your Chrome version (or your preferred browser driver) (Remember your .exe path, we will use it)
-2. [Selenium](https://pypi.org/project/selenium/) (different version will have different syntax, in my project I use Selenium 3)
+2. [Selenium](https://pypi.org/project/selenium/) (different versions will have different syntax, in my project I use Selenium 4)
    ```sh
    pip install -U selenium
    ```
